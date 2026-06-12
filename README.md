@@ -1,1 +1,3 @@
-# practice1
+i am going to learn git and github by using this repo
+<br>
+wish me good luck
